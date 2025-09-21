@@ -1,3 +1,6 @@
 hello from local
 hello from remote
+<<<<<<< HEAD
 another ocal change
+=======
+>>>>>>> 09b5409830ee472714ba053194017e6e2c9da41e
